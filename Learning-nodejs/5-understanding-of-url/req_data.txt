@@ -1,0 +1,2 @@
+/contact-us?contact=9004591789 GET request type request from server
+/about?myname=shipra+mishra GET request type request from server

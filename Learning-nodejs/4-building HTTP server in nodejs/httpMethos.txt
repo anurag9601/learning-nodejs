@@ -1,0 +1,16 @@
+there is a five type's of http methos 
+GET
+POST
+PUT 
+PATCH
+DELETE
+
+GET:- now what is get so get request is that we are questing server for getting some data for example we are searching something on google so in that case we are doing get request to the server for get data of our search.
+
+POST:- now the post request is when we are posting something on a server for example when we are sign in or sign up on any website there is a one form so we will it and submit it that is a post request we are sending that data on the server that is POST request.
+
+PUT:- the put reuqest is when we are puting soming on a server for example i am uploading my image on the server is a PUT request 
+
+PATCH:- the PATCH request is when we are editing our data that is already on the server like our username when we are changin our user name is a PATCH request
+
+DELETE:- the DELETE request is when we are deleting someting from the server for our account when we are deleting our account from any website like instagram it is a DELETE request.

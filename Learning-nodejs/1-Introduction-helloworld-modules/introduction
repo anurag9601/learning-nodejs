@@ -1,0 +1,7 @@
+node js in not a framework of a library it is a runtime environment for a javascript
+
+node js is madeup of using v8engine and c++
+
+by using v8 engine (it is a most popular javascript engine there is also engine like spider monkey engine of ex.) we can only run our javascript code in side the browser but by using node js we can run it outside of browser
+
+there is in node js lot's of javascript codes are not run because it is only make for server side handling so there only server handling methods can be used in a node js

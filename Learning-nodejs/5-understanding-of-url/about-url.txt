@@ -1,0 +1,19 @@
+url stands for uniform resource locator;
+
+the noramal url is look like https://www.youtube.com/watch?v=Nt-AsZh5woE&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&index=8 this somthing 
+
+so now in this url 
+https:// this part is called the protocal 
+the full form of https is hypertext transfer portocal secure
+there is also one portocal called http but it's not that much secured because there in no encrypted connection
+
+www.youtube.com now this part of url is na domain name now what is domain name domain name makes our website user friendly for search by a user imagine instead of domail there is ip address (internet protocal) that is  142.250.192.110 how can our user will remember this so for solving this problem we use domain name insted of ip addresses 
+
+the homepage that is demoted in url as a '/' this called a rootpath 
+
+now where there is in your url somthing like www.anuragmishra.io/about now what is this /about this is the other path which is connected with the url 
+
+now what is this www.youtube.com/project/1 path under path this is called nested path 
+
+now that is this all area call ?v=Nt-AsZh5woE&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&index=8 this is call the query parameters of the link in this you can see there is '&' sign in this text that help to split them these query parameters are stored in a key valuepair form the plus sign in query parameters is spaces 
+

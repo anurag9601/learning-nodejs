@@ -1,0 +1,38 @@
+for explaining versioning lets take a current version of express.js that is ^4.19.2
+now in this version
+^4.19.2
+
+the last one 
+^4.19.2
+.2 is the minor updates or small change of the application framework or anything it's mean the minor updates (so it is optional to update);
+
+the second last one
+^4.19.2
+.19 is the recomended bug fixed update this we have to update because this is of bug fixed updates
+
+and the fist one
+^4.19.2
+.4 this is the mejor version or we can say mejor update 
+
+now what is this symbol 
+^4.19.2
+^ now this caret symbol meaning is it will update over version automatically when the recomended bug fixed update will come or minor updates 
+for example
+^4.20.1 --> will get updated
+^4.20.2 --> will get updated
+^4.21.1 --> will get updated
+^4.22.3 --> will get updated
+but 5.0.0 --> will no get updated because caret symbol means it only updates when the minor or recomended bug fixed updates comes (this it will not update by it self when we want then only we can update)
+
+now there is one more symbol that can be like
+~4.19.2
+~ now this approximate symbol meaning is it will only updates the minor updates 
+for example
+~4.19.3 --> will get updated
+~4.19.4 --> will get updated
+~4.19.5 --> will get updated
+but ~4.20.1 --> will not get updated because approximate symbol means it only get updated when that update is minor update (this it will not update by it self when we want then only we can update)
+
+and now the most common 4.19.2 version without any symbol 
+it means that now any update will come it will be constant it will can not change any more by it self 
+(this it will not update by it self when we want then only we can update)

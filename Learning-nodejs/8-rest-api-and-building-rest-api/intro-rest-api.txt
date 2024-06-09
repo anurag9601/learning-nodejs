@@ -1,0 +1,21 @@
+so restfull api and rest api both are same 
+the restfull api is passes from server to client 
+so our restfull api can a image , json or html form of data 
+so the companys like google and many more mostly use html form restfull api because it direactly render it . it works on SSR (server side rendering) 
+but html form of restfull api can only run on browser it is can not compatable with the crossplatform like mobile phone or any other
+but the json form of data is compatable to run on browser as well as phone or any other device but html form of data is fast to render because there is no filter want as it is it print's the data in html form 
+but in json page has to me filter the data from the json string object 
+
+some http rule the we have to follow to make our rest api to restfull api
+those are 
+for example 
+before learning best practice of the http protocal first understand this
+/users is a path and /user/id is nested path and /:id is dynamic path parameter it is like a variable that can me any thing
+
+this is write way because it is already define in url that you are getting the request you are posting the request so there is no need to write like (ex. GET / getusers or POST/ postusers this is not a good practice).
+
+GET / users / :id
+POST / users / :id
+PUT / users / :id
+PATCH / users / :id
+DELETE / users /:id
